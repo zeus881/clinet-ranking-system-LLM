@@ -1,4 +1,4 @@
-# Rebhu Computing - Client Targeting System
+- Client Targeting System
 
 ## Overview
 
