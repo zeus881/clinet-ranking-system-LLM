@@ -1,0 +1,3 @@
+# Optional ML enhancements for semantic embeddings.
+# Not required for sandbox/offline execution.
+sentence-transformers==3.0.1
